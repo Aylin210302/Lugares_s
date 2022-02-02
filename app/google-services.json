@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659496698195",
+    "project_id": "lugares-7caca",
+    "storage_bucket": "lugares-7caca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659496698195:android:b6b36f230963c4301fa1a6",
+        "android_client_info": {
+          "package_name": "com.lugares"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659496698195-3q37c3vhdb9gvgq3m2vsaosvv9ugeasg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBT54tG4Wd5QW4G51Q7TOaWO7hPCrBbuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659496698195-3q37c3vhdb9gvgq3m2vsaosvv9ugeasg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
